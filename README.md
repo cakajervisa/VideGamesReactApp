@@ -22,4 +22,8 @@
 - [Chakra UI](https://chakra-ui.com/): A simple, modular, and accessible component library for building React applications.
 - [RAWG Video Games Database API](https://rawg.io/apidocs): Provides video game information and covers a wide range of platforms and genres.
 
+## Contact
+
+@cakajervisa@gmail.com  :)
+
 
